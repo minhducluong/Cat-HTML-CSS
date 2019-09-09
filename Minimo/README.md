@@ -1,3 +1,3 @@
-# [Preview Minimo](https://raw.githack.com/minhducluong/Cat-HTML-CSS/master/Minimo/index.html)
+# [Preview Minimo](https://minhducluong.github.io/Cat-HTML-CSS/Minimo/)
 ![alt text](images/hint.png "Click here for single-post page")
 
